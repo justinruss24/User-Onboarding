@@ -1,0 +1,36 @@
+.onboard {
+  display: flex;
+  width: 50%;
+  padding: 2%;
+  justify-content: center;
+  align-items: center;
+  border: 1px dashed blue;
+  margin: 5%;
+  height: 300px;
+}
+
+.main-container {
+  display: flex;
+  width: 90%;
+  justify-content: center;
+  align-items: center;
+}
+
+.red {
+  color: red;
+}
+
+li {
+  list-style-type: none;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.userList {
+  width: 50%;
+  margin: 5%;
+}
